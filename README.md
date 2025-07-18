@@ -5,4 +5,4 @@ Nesse projeto fiz um estudo completo e básico passando pelos meus conhecimentos
 Trabalhei com rotas, reutilizacao de codigo duplicado (refatorando), foi um estudo para testes de conhecimentos.
 Está tudo documentado em [Estudos REACT](https://www.notion.so/React-233800bcebf580318524e1c6c155818b?source=copy_link)
 
-A página pode ser acessada em: [ToDo com React](https://react-git-main-lucs-projects-8e1bcf17.vercel.app/)
+A página pode ser acessada em: [ToDo com React](https://react-five-black.vercel.app/)
